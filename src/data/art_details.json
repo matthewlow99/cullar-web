@@ -1,0 +1,102 @@
+[
+    {  
+        "id": "1",
+        "title": "The Juggler",
+        "dimensions": "40 30",
+        "price": "40.00",
+        "paintingType" : "",
+        "imageName": "the_juggler.jpg"
+    },
+    {  
+        "id": "2",
+        "title": "Artist and Model",
+        "dimensions": "40 60",
+        "price": "4500",
+        "paintingType" : "Acrylic",
+        "imageName": "artist_and_model.jpg"
+    },
+    {  
+        "id": "3",
+        "title": "Girl Talk",
+        "dimensions": "40 60",
+        "price": "4250",
+        "paintingType" : "Acrylic",
+        "imageName": "girl_talk.jpg"
+    },
+    {  
+        "id": "4",
+        "title": "Girlfriend",
+        "dimensions": "13 11",
+        "price": "750",
+        "paintingType" : "Acrylic",
+        "imageName": "girlfriend.jpg"
+    },
+    {  
+        "id": "5",
+        "title": "Base Romance",
+        "dimensions": "60 40",
+        "price": "3750",
+        "paintingType" : "",
+        "imageName": "base_romance.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Vacation",
+        "dimensions": "60 40",
+        "price": "4500",
+        "paintingType" : "",
+        "imageName": "vacation.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Secrets",
+        "dimensions": "60 40",
+        "price": "4250",
+        "paintingType" : "",
+        "imageName": "secrets.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Vision Quest",
+        "dimensions": "40 60",
+        "price": "5250",
+        "paintingType" : "",
+        "imageName": "vision_quest.jpg"
+    },
+    {
+        "id": "9",
+        "title": "Vision Quest",
+        "dimensions": "40 60",
+        "price": "5250",
+        "paintingType" : "",
+        "imageName": "vision_quest.jpg"
+    },
+    {
+        "id": "10",
+        "title": "Musicians",
+        "dimensions": "40 60",
+        "price": "4750",
+        "paintingType" : "",
+        "imageName": "musicians.jpg"
+    },
+    {
+        "id": "11",
+        "title": "Romance",
+        "dimensions": "60 40",
+        "price": "3750",
+        "paintingType" : "",
+        "imageName": "romance.jpg"
+    },
+    {
+        "id": "12",
+        "title": "Night Dream",
+        "dimensions": "13 11",
+        "price": "750",
+        "paintingType" : "",
+        "imageName": "night_dream.jpg"
+    }
+    
+    
+    
+
+]

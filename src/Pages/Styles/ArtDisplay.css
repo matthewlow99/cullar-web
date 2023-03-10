@@ -1,0 +1,39 @@
+.pageContainer{
+    width: 70%;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    row-gap: 20px;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.entryContainer {
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.entryContainer:hover{
+    outline: solid 1px rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.imageGridEntry {
+    max-height: 80%;
+    max-width: 100%;
+    aspect-ratio: 1;
+}
+.imageContainer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
