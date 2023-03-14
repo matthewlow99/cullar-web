@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bec5a54.css",
+    "main.js": "/static/js/main.1a92111f.js",
+    "static/js/787.b310767d.chunk.js": "/static/js/787.b310767d.chunk.js",
+    "static/media/romance.jpg": "/static/media/romance.bdf9045e8496b3bf13f3.jpg",
+    "static/media/base_romance.jpg": "/static/media/base_romance.efa1c7367460e91e9bfd.jpg",
+    "static/media/vacation.jpg": "/static/media/vacation.e8b08dd6a0165f76ed3b.jpg",
+    "static/media/night_dream.jpg": "/static/media/night_dream.8d5157e6ee0c160af206.jpg",
+    "static/media/the_juggler.jpg": "/static/media/the_juggler.593ad04a55aab7228c5b.jpg",
+    "static/media/secrets.jpg": "/static/media/secrets.4359bd2168c569c71270.jpg",
+    "static/media/girlfriend.jpg": "/static/media/girlfriend.946a9f0f6a6416f334a4.jpg",
+    "static/media/musicians.jpg": "/static/media/musicians.62051075a8dbe78fa3a3.jpg",
+    "static/media/girl_talk.jpg": "/static/media/girl_talk.847110de67d44f19bb4c.jpg",
+    "static/media/artist_and_model.jpg": "/static/media/artist_and_model.b15f05c2b59799883330.jpg",
+    "static/media/vision_quest.jpg": "/static/media/vision_quest.7cd225ad9b289cff1cd6.jpg",
+    "index.html": "/index.html",
+    "main.7bec5a54.css.map": "/static/css/main.7bec5a54.css.map",
+    "main.1a92111f.js.map": "/static/js/main.1a92111f.js.map",
+    "787.b310767d.chunk.js.map": "/static/js/787.b310767d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bec5a54.css",
+    "static/js/main.1a92111f.js"
+  ]
+}
