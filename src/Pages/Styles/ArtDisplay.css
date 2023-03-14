@@ -1,23 +1,28 @@
 .pageContainer{
-    width: 70%;
-    background-color: beige;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
+    
+    justify-content: space-between;
+    overflow-y: scroll;
+    height: 95vh;
+}
+.artGridContainer{
     display: grid;
     grid-template-columns: repeat(3, 33%);
     row-gap: 20px;
-    justify-content: space-between;
-    padding-left: 10px;
-    padding-right: 10px;
+    background-color: beige;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    
 }
 .entryContainer {
     width: 100%;
-    /* background-color: blue; */
+    background-color: beige;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-bottom: 20px;
 }
 .entryContainer:hover{
     outline: solid 1px rgb(255, 255, 255);
@@ -25,8 +30,8 @@
 }
 
 .imageGridEntry {
-    max-height: 80%;
-    max-width: 100%;
+    width: 80%;
+    max-width: 400px;
     aspect-ratio: 1;
 }
 .imageContainer {
@@ -35,5 +40,5 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
 }

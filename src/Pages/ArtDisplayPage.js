@@ -1,14 +1,10 @@
 import React from 'react'
 import ArtDisplayContainer from './Components/ArtDisplay/ArtDisplayContainer'
 
-function ArtDisplayPage() {
-
-    const artData = require('../data/art_details.json')
-
-    
-
+function ArtDisplayPage({setPieceData}) {
+  const artData = require('../data/art_details.json')
   return (
-    <ArtDisplayContainer />
+    <ArtDisplayContainer setPieceData={setPieceData}/>
   )
 }
 

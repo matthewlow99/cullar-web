@@ -1,11 +1,15 @@
 .headerContainer {
     width: 100%;
-    height: 50px;
+    height: 5vh;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
     background-color: bisque;
+    /* position: fixed; */
+    top: 0;
+    overflow-y: hidden;
+    /* z-index: 2; */
 }
 .headerButton {
     height: 100%;

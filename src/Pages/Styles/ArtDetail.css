@@ -1,0 +1,27 @@
+.detailContainer {
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* min-width: 50%; */
+    width: fit-content;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    margin-top: 60px;
+    background-color: beige;
+    /* height: 95vh; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.descriptionText {
+    text-align: left;
+    line-height: 30px;
+    font-size: 16pt;
+}
+.imageStyle {
+    -webkit-box-shadow: 4px 4px 11px 0px rgba(97,97,97,1);
+    -moz-box-shadow: 4px 4px 11px 0px rgba(97,97,97,1);
+    box-shadow: 4px 4px 11px 0px rgba(97,97,97,1);
+    max-height: 20%;
+    margin-right: 100px;
+}
