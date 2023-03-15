@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cullar-web/static/css/main.7bec5a54.css",
+    "main.css": "/cullar-web/static/css/main.958e6f0b.css",
     "main.js": "/cullar-web/static/js/main.c44d58a7.js",
     "static/js/787.b310767d.chunk.js": "/cullar-web/static/js/787.b310767d.chunk.js",
     "static/media/romance.jpg": "/cullar-web/static/media/romance.bdf9045e8496b3bf13f3.jpg",
@@ -15,12 +15,12 @@
     "static/media/artist_and_model.jpg": "/cullar-web/static/media/artist_and_model.b15f05c2b59799883330.jpg",
     "static/media/vision_quest.jpg": "/cullar-web/static/media/vision_quest.7cd225ad9b289cff1cd6.jpg",
     "index.html": "/cullar-web/index.html",
-    "main.7bec5a54.css.map": "/cullar-web/static/css/main.7bec5a54.css.map",
+    "main.958e6f0b.css.map": "/cullar-web/static/css/main.958e6f0b.css.map",
     "main.c44d58a7.js.map": "/cullar-web/static/js/main.c44d58a7.js.map",
     "787.b310767d.chunk.js.map": "/cullar-web/static/js/787.b310767d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bec5a54.css",
+    "static/css/main.958e6f0b.css",
     "static/js/main.c44d58a7.js"
   ]
 }

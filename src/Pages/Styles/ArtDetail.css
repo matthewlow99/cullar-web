@@ -8,10 +8,10 @@
     /* margin-left: 20px;
     margin-right: 20px; */
     margin-top: 60px;
-    background-color: beige;
-    /* height: 95vh; */
-    padding-top: 30px;
-    padding-bottom: 30px;
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(253,255,227,1) 10%, rgba(253,255,227,1) 90%, rgba(255,255,255,1) 100%);
+    padding-top: 10vh;
+    padding-bottom: 10vh;
 }
 .descriptionText {
     text-align: left;
