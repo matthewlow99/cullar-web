@@ -6,7 +6,7 @@ function ArtDetailView({pieceData}) {
 
     const dimArray = pieceData.dimensions.split(" ")
 
-    const dimensions = dimArray[0] + "' x " + dimArray[1] + "'"
+    const dimensions = dimArray[0] + '" x ' + dimArray[1] + '"'
 
 
   return (
